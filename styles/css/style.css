@@ -6,6 +6,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 /* font-family: 'Poppins', sans-serif; */
 
-.bg-custom{
+.bg-custom-01{
     background-color: #F1F1F1;
+}
+.bg-custom-02{
+    background-color: #FEEAE9;
+}
+.bg-custom-03{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.bg-custom-04{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.bg-custom-05{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+.cat h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
 }
