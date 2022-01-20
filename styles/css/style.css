@@ -5,9 +5,7 @@
 /* font-family: 'Roboto', sans-serif; */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 /* font-family: 'Poppins', sans-serif; */
-body{
-    background-color: #F4F4F4;
-}
+
 .bg-custom-01{
     background-color: #F1F1F1;
 }
@@ -47,6 +45,11 @@ li a{
     font-family: 'Poppins', sans-serif;
     color: #FF136F;
 }
+.container-head a{
+    text-decoration: none;
+    color: #FF9D00;
+    font-family: 'Poppins', sans-serif;
+}
 .cat h1{
     font-family: 'Poppins', sans-serif;
     font-size: 36px;
@@ -54,4 +57,29 @@ li a{
 }
 .card{
     border-radius: 20px;
+}
+.box{
+    border-radius: 15px;
+}
+.subscription h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+.subscription p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #707070;
+}
+input{
+    font-family: 'Poppins', sans-serif;
+}
+.padding{
+    padding: 13.5px;
+}
+footer p{
+    font-size: 0.7em;
+    color: #c2c0c0;
+    font-family: 'Poppins', sans-serif;
 }
