@@ -75,6 +75,9 @@ li a{
 input{
     font-family: 'Poppins', sans-serif;
 }
+.custom-size{
+    font-size: 0.8em;
+}
 .padding{
     padding: 13.5px;
 }
