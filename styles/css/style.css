@@ -28,6 +28,10 @@
     height: 52px;
     background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
 }
+.trans:hover{
+    transform: scale(1.03);
+    transition: transform 0.5s;
+}
 header{
     background-color: #fff;
 }
