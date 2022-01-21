@@ -32,6 +32,9 @@
     transform: scale(1.03);
     transition: transform 0.5s;
 }
+.cursor{
+    cursor: pointer;
+}
 header{
     background-color: #fff;
 }
